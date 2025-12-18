@@ -1,4 +1,5 @@
-Apple Products Price Analysis
+
+# **Apple Products Price Analysis**
 End-to-end data analysis pipeline for Apple iPhone pricing and customer sentiment on Flipkart marketplace.
 Problem Statement
 Analyze pricing strategies, discount patterns, and customer satisfaction metrics across iPhone product lines to identify market opportunities and consumer preferences.
